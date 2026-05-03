@@ -21,7 +21,7 @@ function CharacterCard({ character, onClick }) {
         <Star
           size={16}
           className="
-            absolute top-4 left-2 text-yellow-400 
+            absolute top-4 left-2 text-yellow-500 
             opacity-0 group-hover:opacity-60 
             animate-pulse transition-opacity duration-300
           "
